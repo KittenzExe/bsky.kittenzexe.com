@@ -1,7 +1,7 @@
 <script>
   import { onMount } from 'svelte';
 
-  let testing = true; // Set this to false when not testing
+  let testing = false; // Set this to false when not testing
 
   onMount(() => {
     if (!testing) {
