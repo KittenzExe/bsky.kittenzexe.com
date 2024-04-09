@@ -20,7 +20,7 @@
 </style>
 
 <body class="w-screen h-screen overflow-hidden relative">
-    <img id="backgroundImage" class="absolute w-full h-full object-cover object-left" alt="manuka!" src="/manuka.webp">
+    <img id="backgroundImage" class="absolute w-full h-full object-cover" alt="manuka!" src="/maaanoookaaa.webp">
     <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center">
       <p class="text-3xl font-semibold text-gray-500">Redirecting...</p>
       <p class="font-semibold text-gray-500">(If you are not redirected, <span><a href="https://bsky.app/profile/kittenzexe.bsky.social">click here</a></span>)</p>
