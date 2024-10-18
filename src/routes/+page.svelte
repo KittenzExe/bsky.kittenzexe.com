@@ -20,9 +20,9 @@
 </style>
 
 <body class="w-screen h-screen overflow-hidden relative">
-    <img id="backgroundImage" class="absolute w-full h-full object-cover" alt="manuka!" src="https://kittenzexe.com/VRChat_2024-06-16_04-11-12.569_2.png">
+    <img id="backgroundImage" class="absolute w-full h-full object-cover" alt="manuka!" src="https://raw.githubusercontent.com/KittenzExe/KittenzExe/refs/heads/main/VRChat_2024-09-24_08-47-38.802_2560x1440.png">
     <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center">
-      <p class="text-3xl font-semibold text-gray-500">Redirecting...</p>
-      <p class="font-semibold text-gray-500">(If you are not redirected, <span><a href="https://bsky.app/profile/kittenzexe.com">click here</a></span>)</p>
+      <p class="text-3xl font-semibold text-black">Redirecting...</p>
+      <p class="font-semibold text-black">(If you are not redirected, <span class="text-blue-800"><a href="https://bsky.app/profile/kittenzexe.com">click here</a></span>)</p>
     </div>
 </body>
